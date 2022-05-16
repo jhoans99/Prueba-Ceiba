@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ceiba Prueba</string>
+    <string name="text_search">Buscar Usuario</string>
+    <string name="empty_list">Empty List</string>
+</resources>
